@@ -1,0 +1,5 @@
+name: 指令替换
+author: 逍遥
+version: 1.4.0
+description: 短指令替换，支持普通前缀与正则表达式，替换后透传给下一步。
+requirements: []
